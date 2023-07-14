@@ -2,6 +2,10 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍
 
+⚠️sex search bot @SEX_PORN_DESI_CHANNEL_BOT
+
+⚠️theater print bot @theaterprintbot
+
 u can also add ur shartner and earn money  🎰 dm me @jnaneshgowdru</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
