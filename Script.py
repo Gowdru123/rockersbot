@@ -205,8 +205,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @ROCKERSBACKUP 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @JN_MOVIE_REQUIST_GROUP
+▫️ ᴄʜᴀɴɴᴇʟ : @SEX_PORN_DESI_CHANNEL_BOT
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+wQpK7mlEc_JkNjVl
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
